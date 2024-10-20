@@ -89,14 +89,16 @@ const technologies = [
 
 const experiences = [
 	{
- 		title: "",
- 		company_name: "",
- 		icon: "",
+ 		title: "Marketing Team Member",
+ 		company_name: "BIT Placement Club",
+ 		icon: "/company/1.jpeg",
  		iconBg: "#383E56",
- 		date: "",
+ 		date: "Oct 2023 - Present",
  		points: [
- 			"",
- 			"",
+ 			"Collaborated with a dynamic team to create and implement marketing strategies aimed at increasing awareness of placement events and opportunities.",
+ 			"Managed and maintained the club’s social media presence, ensuring regular and relevant updates about upcoming events, placements, and workshops.",
+			"Worked closely with the communications team to develop promotional works, enhancing internal and external engagement.",
+			"Contributed to brainstorming sessions for new marketing initiatives, leading to innovative ideas for improving student participation and engagement.",
  		],
  	},
 
