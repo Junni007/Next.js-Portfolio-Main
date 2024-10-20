@@ -68,7 +68,7 @@ const Experience = () => {
 				<p className="styles.sectionSubText text-center">
 				 My
 				</p>
-				<h2 className="sectionHeadText text-center">Technological Expertise</h2>
+				<h2 className="sectionHeadText text-center">Technological & Work Expertise</h2>
 			</motion.div>
 
 			<div className="mt-20 flex flex-col">

@@ -24,7 +24,7 @@ const config: Config = {
 				card: "0px 35px 120px -15px #211e35",
 			},
 			screens: {
-				xs: "450px",
+				xs: "475px",
 			},
 			backgroundImage: {
 				"hero-pattern": "url('/herobg.webp')",
