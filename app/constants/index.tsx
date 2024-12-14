@@ -209,6 +209,28 @@ const projects = [
 		source_code_link: "https://github.com/Junni007/2048-webGame",
 		netlify_link: "https://junni007.github.io/2048-webGame/",
 	},
+	{
+		name: "Devconnector",
+		description:
+			"A small social network app that includes authentication, profiles and forum posts.",
+		tags: [
+			{
+				name: "Social-media",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "Interact",
+				color: "orange-text-gradient",
+			},
+			{
+				name: "Converse",
+				color: "blue-text-gradient",
+			},
+		],
+		image: "/projectimg/Devconnector.png",
+		source_code_link: "https://github.com/Junni007/Devconnector",
+		netlify_link: "https://github.com/Junni007/Devconnector",
+	},
 ];
 
 export { services, technologies, experiences, testimonials, projects };
