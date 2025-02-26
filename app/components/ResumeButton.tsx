@@ -5,7 +5,7 @@ import React from "react";
 const ResumeButton = () => {
 	return (
 		<Link
-			href="https://drive.google.com/file/d/1NT6F_5MzleDYbT6Jmffi7K6HnhpJFg3l/view?usp=drive_link"
+			href="https://drive.google.com/file/d/1YukYJ-_Z4pBV7tn8D0wdWJaHIHQ1sPgE/view?usp=sharing"
 			target="_blank"
 		>
 			<button
